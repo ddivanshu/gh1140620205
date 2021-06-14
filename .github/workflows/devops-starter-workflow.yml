@@ -4,6 +4,7 @@ on:
     branches:
       - master
 
+
 env:
   APPNAME: gh1140620205
   APPLICATIONPATH: "Application"
